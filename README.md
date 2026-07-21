@@ -121,4 +121,8 @@ An interactive timeline that lets users compare ENIAC, IBM System/360, and Intel
 - [ ] Accessibility and mobile responsiveness review
 - [ ] Final content review and submission
 
+### AI/LLM Disclosure
+
+Artificial Intelligence (AI) was utilized in this work solely for summarizing and organizing reference materials using Gemini AI Pro. All final interpretations, analysis, and conclusions were independently verified and remain the sole responsibility of the human authors.
+
 ---
