@@ -5,6 +5,6 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   integrations: [mdx(), react(), icon()],
-  site: "https://jrgo7.github.io",
-  base: "virtual-exhibit-template",
+  site: "https://seoyunnie.github.io",
+  base: "/ARCH2-Mainframes-to-Microprocessors",
 });

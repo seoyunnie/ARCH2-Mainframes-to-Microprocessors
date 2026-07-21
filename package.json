@@ -3,6 +3,7 @@
   "name": "virtual-exhibit-template",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://seoyunnie.github.io/ARCH2-Mainframes-to-Microprocessors",
   "type": "module",
   "author": "Sean Cordero",
   "contributors": [
